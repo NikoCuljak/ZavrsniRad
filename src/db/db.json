@@ -1,0 +1,40 @@
+{
+  "calc": [
+    {
+      "date": "2021-04-30",
+      "salary": 5000,
+      "transfers": 0,
+      "outcome1": 1560,
+      "outcome2": 10,
+      "outcome3": 10,
+      "outcome4": 4000,
+      "outcome5": 10,
+      "outcome6": 10,
+      "outcome7": 10,
+      "outcome8": 10,
+      "outcome9": 1000,
+      "outcome10": 10,
+      "outcome11": 10,
+      "outcome12": 10,
+      "id": 1
+    },
+    {
+      "date": "2021-05-31",
+      "salary": 5200,
+      "transfers": 800,
+      "outcome1": 1400,
+      "outcome2": 300,
+      "outcome3": 600,
+      "outcome4": 400,
+      "outcome5": 300,
+      "outcome6": 100,
+      "outcome7": 0,
+      "outcome8": 0,
+      "outcome9": 300,
+      "outcome10": 70,
+      "outcome11": 100,
+      "outcome12": 0,
+      "id": 9
+    }
+  ]
+}
